@@ -63,7 +63,7 @@ pip install -r requirements.txt
 run_slicebench.bat
 ```
 
-**Linux/Mac (with NVIDIA GPU):**
+**Linux/Mac:**
 ```bash
 chmod +x run_slicebench.sh
 ./run_slicebench.sh
@@ -101,23 +101,23 @@ pip install -r requirements.txt
 **2. Generate Dataset:**
 
 ```bash
-python download_real_samples.py
+python scripts/download_real_samples.py
 ```
 
 **3. Run Evaluation:**
 
 ```bash
 # Single model
-python run_evaluation.py --model resnet50
+python scripts/run_evaluation.py --model resnet50
 
 # Multiple models
-python run_evaluation.py --model vit_b_16
+python scripts/run_evaluation.py --model vit_b_16
 ```
 
 **4. Generate Visualizations:**
 
 ```bash
-python visualize.py
+python scripts/visualize.py
 ```
 
 ## Case Study: ResNet50 vs ViT-B/16
@@ -125,7 +125,7 @@ python visualize.py
 The included case study compares CNN (ResNet) and Transformer (ViT) architectures:
 
 ```bash
-python generate_case_study.py
+python scripts/generate_case_study.py
 ```
 
 **Key Findings:**
@@ -146,7 +146,7 @@ See `results/case_study_resnet_vs_vit.txt` for full analysis.
 
 ```python
 from pathlib import Path
-from dataset import SliceBenchGenerator
+from src.dataset import SliceBenchGenerator
 
 generator = SliceBenchGenerator()
 
@@ -168,9 +168,9 @@ generator.save_metadata()
 ### Custom Evaluation
 
 ```python
-from models import ModelWrapper
-from evaluation import SliceEvaluator, BiasDetector
-from dataset import SliceBenchLoader
+from src.models import ModelWrapper
+from src.evaluation import SliceEvaluator, BiasDetector
+from src.dataset import SliceBenchLoader
 
 # Load model
 model = ModelWrapper("resnet50")
@@ -260,11 +260,11 @@ Default models (from torchvision):
 - MobileNet-V3-Large
 - ViT-B/16
 
-Add custom models by extending `ModelWrapper` in `models.py`.
+Add custom models by extending `ModelWrapper` in `src/models.py`.
 
 ## Configuration
 
-Edit `config.py` to customize:
+Edit `src/config.py` to customize:
 - Image size and normalization
 - Models to test
 - Slice types to generate

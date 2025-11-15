@@ -1,0 +1,346 @@
+{
+  "slices": [
+    {
+      "slice_id": "bg_tabby_cat_281",
+      "slice_type": "background_swap",
+      "original": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\background_swap\\bg_tabby_cat_281\\original.jpg",
+      "variants": [
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\background_swap\\bg_tabby_cat_281\\bg_swap_0.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\background_swap\\bg_tabby_cat_281\\bg_swap_1.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\background_swap\\bg_tabby_cat_281\\bg_swap_2.jpg"
+      ],
+      "label": 281
+    },
+    {
+      "slice_id": "crop_tabby_cat_281",
+      "slice_type": "crop_variations",
+      "original": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_tabby_cat_281\\original.jpg",
+      "scale_crops": [
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_tabby_cat_281\\crop_0.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_tabby_cat_281\\crop_1.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_tabby_cat_281\\crop_2.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_tabby_cat_281\\crop_3.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_tabby_cat_281\\crop_4.jpg"
+      ],
+      "position_crops": {
+        "center": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_tabby_cat_281\\crop_center.jpg",
+        "top_left": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_tabby_cat_281\\crop_top_left.jpg",
+        "top_right": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_tabby_cat_281\\crop_top_right.jpg",
+        "bottom_left": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_tabby_cat_281\\crop_bottom_left.jpg",
+        "bottom_right": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_tabby_cat_281\\crop_bottom_right.jpg"
+      },
+      "label": 281
+    },
+    {
+      "slice_id": "ctx_tabby_cat_281",
+      "slice_type": "context_removal",
+      "original": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\context_removal\\ctx_tabby_cat_281\\original.jpg",
+      "blurred": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\context_removal\\ctx_tabby_cat_281\\blurred_bg.jpg",
+      "isolated": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\context_removal\\ctx_tabby_cat_281\\isolated.jpg",
+      "label": 281
+    },
+    {
+      "slice_id": "wm_tabby_cat_281",
+      "slice_type": "watermark_test",
+      "original": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\watermark_test\\wm_tabby_cat_281\\original.jpg",
+      "variants": [
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\watermark_test\\wm_tabby_cat_281\\watermark_bottom_right.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\watermark_test\\wm_tabby_cat_281\\watermark_top_left.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\watermark_test\\wm_tabby_cat_281\\watermark_top_right.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\watermark_test\\wm_tabby_cat_281\\watermark_bottom_left.jpg"
+      ],
+      "label": 281
+    },
+    {
+      "slice_id": "tex_tabby_cat_281",
+      "slice_type": "texture_bias",
+      "original": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\texture_bias\\tex_tabby_cat_281\\original.jpg",
+      "variants": [
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\texture_bias\\tex_tabby_cat_281\\patch_red.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\texture_bias\\tex_tabby_cat_281\\patch_green.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\texture_bias\\tex_tabby_cat_281\\patch_blue.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\texture_bias\\tex_tabby_cat_281\\patch_yellow.jpg"
+      ],
+      "label": 281
+    },
+    {
+      "slice_id": "bg_golden_retriever_207",
+      "slice_type": "background_swap",
+      "original": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\background_swap\\bg_golden_retriever_207\\original.jpg",
+      "variants": [
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\background_swap\\bg_golden_retriever_207\\bg_swap_0.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\background_swap\\bg_golden_retriever_207\\bg_swap_1.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\background_swap\\bg_golden_retriever_207\\bg_swap_2.jpg"
+      ],
+      "label": 207
+    },
+    {
+      "slice_id": "crop_golden_retriever_207",
+      "slice_type": "crop_variations",
+      "original": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_golden_retriever_207\\original.jpg",
+      "scale_crops": [
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_golden_retriever_207\\crop_0.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_golden_retriever_207\\crop_1.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_golden_retriever_207\\crop_2.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_golden_retriever_207\\crop_3.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_golden_retriever_207\\crop_4.jpg"
+      ],
+      "position_crops": {
+        "center": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_golden_retriever_207\\crop_center.jpg",
+        "top_left": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_golden_retriever_207\\crop_top_left.jpg",
+        "top_right": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_golden_retriever_207\\crop_top_right.jpg",
+        "bottom_left": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_golden_retriever_207\\crop_bottom_left.jpg",
+        "bottom_right": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_golden_retriever_207\\crop_bottom_right.jpg"
+      },
+      "label": 207
+    },
+    {
+      "slice_id": "ctx_golden_retriever_207",
+      "slice_type": "context_removal",
+      "original": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\context_removal\\ctx_golden_retriever_207\\original.jpg",
+      "blurred": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\context_removal\\ctx_golden_retriever_207\\blurred_bg.jpg",
+      "isolated": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\context_removal\\ctx_golden_retriever_207\\isolated.jpg",
+      "label": 207
+    },
+    {
+      "slice_id": "wm_golden_retriever_207",
+      "slice_type": "watermark_test",
+      "original": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\watermark_test\\wm_golden_retriever_207\\original.jpg",
+      "variants": [
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\watermark_test\\wm_golden_retriever_207\\watermark_bottom_right.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\watermark_test\\wm_golden_retriever_207\\watermark_top_left.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\watermark_test\\wm_golden_retriever_207\\watermark_top_right.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\watermark_test\\wm_golden_retriever_207\\watermark_bottom_left.jpg"
+      ],
+      "label": 207
+    },
+    {
+      "slice_id": "tex_golden_retriever_207",
+      "slice_type": "texture_bias",
+      "original": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\texture_bias\\tex_golden_retriever_207\\original.jpg",
+      "variants": [
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\texture_bias\\tex_golden_retriever_207\\patch_red.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\texture_bias\\tex_golden_retriever_207\\patch_green.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\texture_bias\\tex_golden_retriever_207\\patch_blue.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\texture_bias\\tex_golden_retriever_207\\patch_yellow.jpg"
+      ],
+      "label": 207
+    },
+    {
+      "slice_id": "bg_panda_388",
+      "slice_type": "background_swap",
+      "original": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\background_swap\\bg_panda_388\\original.jpg",
+      "variants": [
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\background_swap\\bg_panda_388\\bg_swap_0.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\background_swap\\bg_panda_388\\bg_swap_1.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\background_swap\\bg_panda_388\\bg_swap_2.jpg"
+      ],
+      "label": 388
+    },
+    {
+      "slice_id": "crop_panda_388",
+      "slice_type": "crop_variations",
+      "original": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_panda_388\\original.jpg",
+      "scale_crops": [
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_panda_388\\crop_0.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_panda_388\\crop_1.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_panda_388\\crop_2.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_panda_388\\crop_3.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_panda_388\\crop_4.jpg"
+      ],
+      "position_crops": {
+        "center": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_panda_388\\crop_center.jpg",
+        "top_left": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_panda_388\\crop_top_left.jpg",
+        "top_right": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_panda_388\\crop_top_right.jpg",
+        "bottom_left": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_panda_388\\crop_bottom_left.jpg",
+        "bottom_right": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_panda_388\\crop_bottom_right.jpg"
+      },
+      "label": 388
+    },
+    {
+      "slice_id": "ctx_panda_388",
+      "slice_type": "context_removal",
+      "original": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\context_removal\\ctx_panda_388\\original.jpg",
+      "blurred": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\context_removal\\ctx_panda_388\\blurred_bg.jpg",
+      "isolated": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\context_removal\\ctx_panda_388\\isolated.jpg",
+      "label": 388
+    },
+    {
+      "slice_id": "wm_panda_388",
+      "slice_type": "watermark_test",
+      "original": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\watermark_test\\wm_panda_388\\original.jpg",
+      "variants": [
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\watermark_test\\wm_panda_388\\watermark_bottom_right.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\watermark_test\\wm_panda_388\\watermark_top_left.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\watermark_test\\wm_panda_388\\watermark_top_right.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\watermark_test\\wm_panda_388\\watermark_bottom_left.jpg"
+      ],
+      "label": 388
+    },
+    {
+      "slice_id": "tex_panda_388",
+      "slice_type": "texture_bias",
+      "original": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\texture_bias\\tex_panda_388\\original.jpg",
+      "variants": [
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\texture_bias\\tex_panda_388\\patch_red.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\texture_bias\\tex_panda_388\\patch_green.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\texture_bias\\tex_panda_388\\patch_blue.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\texture_bias\\tex_panda_388\\patch_yellow.jpg"
+      ],
+      "label": 388
+    },
+    {
+      "slice_id": "bg_tabby_cat_2_281",
+      "slice_type": "background_swap",
+      "original": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\background_swap\\bg_tabby_cat_2_281\\original.jpg",
+      "variants": [
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\background_swap\\bg_tabby_cat_2_281\\bg_swap_0.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\background_swap\\bg_tabby_cat_2_281\\bg_swap_1.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\background_swap\\bg_tabby_cat_2_281\\bg_swap_2.jpg"
+      ],
+      "label": 281
+    },
+    {
+      "slice_id": "crop_tabby_cat_2_281",
+      "slice_type": "crop_variations",
+      "original": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_tabby_cat_2_281\\original.jpg",
+      "scale_crops": [
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_tabby_cat_2_281\\crop_0.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_tabby_cat_2_281\\crop_1.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_tabby_cat_2_281\\crop_2.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_tabby_cat_2_281\\crop_3.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_tabby_cat_2_281\\crop_4.jpg"
+      ],
+      "position_crops": {
+        "center": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_tabby_cat_2_281\\crop_center.jpg",
+        "top_left": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_tabby_cat_2_281\\crop_top_left.jpg",
+        "top_right": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_tabby_cat_2_281\\crop_top_right.jpg",
+        "bottom_left": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_tabby_cat_2_281\\crop_bottom_left.jpg",
+        "bottom_right": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_tabby_cat_2_281\\crop_bottom_right.jpg"
+      },
+      "label": 281
+    },
+    {
+      "slice_id": "ctx_tabby_cat_2_281",
+      "slice_type": "context_removal",
+      "original": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\context_removal\\ctx_tabby_cat_2_281\\original.jpg",
+      "blurred": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\context_removal\\ctx_tabby_cat_2_281\\blurred_bg.jpg",
+      "isolated": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\context_removal\\ctx_tabby_cat_2_281\\isolated.jpg",
+      "label": 281
+    },
+    {
+      "slice_id": "wm_tabby_cat_2_281",
+      "slice_type": "watermark_test",
+      "original": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\watermark_test\\wm_tabby_cat_2_281\\original.jpg",
+      "variants": [
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\watermark_test\\wm_tabby_cat_2_281\\watermark_bottom_right.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\watermark_test\\wm_tabby_cat_2_281\\watermark_top_left.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\watermark_test\\wm_tabby_cat_2_281\\watermark_top_right.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\watermark_test\\wm_tabby_cat_2_281\\watermark_bottom_left.jpg"
+      ],
+      "label": 281
+    },
+    {
+      "slice_id": "tex_tabby_cat_2_281",
+      "slice_type": "texture_bias",
+      "original": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\texture_bias\\tex_tabby_cat_2_281\\original.jpg",
+      "variants": [
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\texture_bias\\tex_tabby_cat_2_281\\patch_red.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\texture_bias\\tex_tabby_cat_2_281\\patch_green.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\texture_bias\\tex_tabby_cat_2_281\\patch_blue.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\texture_bias\\tex_tabby_cat_2_281\\patch_yellow.jpg"
+      ],
+      "label": 281
+    },
+    {
+      "slice_id": "bg_golden_retriever_2_207",
+      "slice_type": "background_swap",
+      "original": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\background_swap\\bg_golden_retriever_2_207\\original.jpg",
+      "variants": [
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\background_swap\\bg_golden_retriever_2_207\\bg_swap_0.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\background_swap\\bg_golden_retriever_2_207\\bg_swap_1.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\background_swap\\bg_golden_retriever_2_207\\bg_swap_2.jpg"
+      ],
+      "label": 207
+    },
+    {
+      "slice_id": "crop_golden_retriever_2_207",
+      "slice_type": "crop_variations",
+      "original": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_golden_retriever_2_207\\original.jpg",
+      "scale_crops": [
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_golden_retriever_2_207\\crop_0.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_golden_retriever_2_207\\crop_1.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_golden_retriever_2_207\\crop_2.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_golden_retriever_2_207\\crop_3.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_golden_retriever_2_207\\crop_4.jpg"
+      ],
+      "position_crops": {
+        "center": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_golden_retriever_2_207\\crop_center.jpg",
+        "top_left": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_golden_retriever_2_207\\crop_top_left.jpg",
+        "top_right": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_golden_retriever_2_207\\crop_top_right.jpg",
+        "bottom_left": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_golden_retriever_2_207\\crop_bottom_left.jpg",
+        "bottom_right": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\crop_variations\\crop_golden_retriever_2_207\\crop_bottom_right.jpg"
+      },
+      "label": 207
+    },
+    {
+      "slice_id": "ctx_golden_retriever_2_207",
+      "slice_type": "context_removal",
+      "original": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\context_removal\\ctx_golden_retriever_2_207\\original.jpg",
+      "blurred": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\context_removal\\ctx_golden_retriever_2_207\\blurred_bg.jpg",
+      "isolated": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\context_removal\\ctx_golden_retriever_2_207\\isolated.jpg",
+      "label": 207
+    },
+    {
+      "slice_id": "wm_golden_retriever_2_207",
+      "slice_type": "watermark_test",
+      "original": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\watermark_test\\wm_golden_retriever_2_207\\original.jpg",
+      "variants": [
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\watermark_test\\wm_golden_retriever_2_207\\watermark_bottom_right.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\watermark_test\\wm_golden_retriever_2_207\\watermark_top_left.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\watermark_test\\wm_golden_retriever_2_207\\watermark_top_right.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\watermark_test\\wm_golden_retriever_2_207\\watermark_bottom_left.jpg"
+      ],
+      "label": 207
+    },
+    {
+      "slice_id": "tex_golden_retriever_2_207",
+      "slice_type": "texture_bias",
+      "original": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\texture_bias\\tex_golden_retriever_2_207\\original.jpg",
+      "variants": [
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\texture_bias\\tex_golden_retriever_2_207\\patch_red.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\texture_bias\\tex_golden_retriever_2_207\\patch_green.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\texture_bias\\tex_golden_retriever_2_207\\patch_blue.jpg",
+        "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\slicebench\\texture_bias\\tex_golden_retriever_2_207\\patch_yellow.jpg"
+      ],
+      "label": 207
+    }
+  ],
+  "source_images": [
+    {
+      "path": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\sample_source\\samples\\sample_0_tabby_cat.jpg",
+      "label": 281,
+      "class_name": "tabby_cat"
+    },
+    {
+      "path": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\sample_source\\samples\\sample_1_golden_retriever.jpg",
+      "label": 207,
+      "class_name": "golden_retriever"
+    },
+    {
+      "path": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\sample_source\\samples\\sample_2_panda.jpg",
+      "label": 388,
+      "class_name": "panda"
+    },
+    {
+      "path": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\sample_source\\samples\\sample_3_tabby_cat_2.jpg",
+      "label": 281,
+      "class_name": "tabby_cat_2"
+    },
+    {
+      "path": "C:\\Users\\shaik\\SliceBench-dataset\\src\\data\\sample_source\\samples\\sample_4_golden_retriever_2.jpg",
+      "label": 207,
+      "class_name": "golden_retriever_2"
+    }
+  ]
+}

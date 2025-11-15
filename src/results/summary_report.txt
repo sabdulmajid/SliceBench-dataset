@@ -1,0 +1,13 @@
+================================================================================
+SliceBench Evaluation Summary
+================================================================================
+
+   model  baseline_top1  baseline_top5  num_bg_biases  avg_bg_drop  num_ctx_biases  avg_ctx_drop
+resnet50            0.8            0.8              0     0.000000               1           0.1
+vit_b_16            0.6            0.8              1    -0.133333               1           0.0
+
+Key Findings:
+--------------------------------------------------------------------------------
+Best baseline accuracy: resnet50
+Most robust to background changes: vit_b_16
+Most robust to context removal: vit_b_16

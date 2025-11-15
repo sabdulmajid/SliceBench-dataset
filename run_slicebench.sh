@@ -27,22 +27,22 @@ pip install --quiet opencv-python scikit-learn matplotlib seaborn pandas tqdm
 # Download data if needed
 if [ ! -f "data/slicebench/metadata.json" ]; then
     echo "Downloading sample images and generating dataset..."
-    python download_real_samples.py
+    python scripts/download_real_samples.py
 fi
 
 # Run evaluations
 echo ""
 echo "Running ResNet50 evaluation..."
-python run_evaluation.py --model resnet50
+python scripts/run_evaluation.py --model resnet50
 
 echo ""
 echo "Running ViT-B/16 evaluation..."
-python run_evaluation.py --model vit_b_16
+python scripts/run_evaluation.py --model vit_b_16
 
 # Generate visualizations
 echo ""
 echo "Generating visualizations..."
-python visualize.py
+python scripts/visualize.py
 
 # Show results
 echo ""
