@@ -1,0 +1,51 @@
+================================================================================
+CASE STUDY: ResNet50 vs ViT-B/16 Bias Analysis
+================================================================================
+
+BASELINE PERFORMANCE
+--------------------------------------------------------------------------------
+Model                Top-1 Acc    Top-5 Acc    Confidence  
+ResNet50             80.0%        80.0%        39.9%       
+ViT-B/16             60.0%        80.0%        72.5%       
+
+ROBUSTNESS BY SLICE TYPE
+--------------------------------------------------------------------------------
+
+Background Swap
+  ResNet50: 80.0% (drop: +0.0%)
+  ViT-B/16: 73.3% (drop: -13.3%)
+  → ResNet50 is more robust
+
+Crop Variations
+  ResNet50: 80.0% (drop: +0.0%)
+  ViT-B/16: 68.0% (drop: -8.0%)
+  → ResNet50 is more robust
+
+Context Removal
+  ResNet50: 70.0% (drop: +10.0%)
+  ViT-B/16: 60.0% (drop: +0.0%)
+  → ViT-B/16 is more robust
+
+Watermark
+  ResNet50: 80.0% (drop: +0.0%)
+  ViT-B/16: 60.0% (drop: +0.0%)
+
+Texture/Color Bias
+  ResNet50: 80.0% (drop: +0.0%)
+  ViT-B/16: 60.0% (drop: +0.0%)
+
+================================================================================
+KEY FINDINGS
+================================================================================
+
+1. ResNet50 shows 1 significant biases
+2. ViT-B/16 shows 2 significant biases
+
+3. ResNet50 achieves higher baseline accuracy
+
+4. Architecture differences:
+   - CNNs (ResNet) have stronger inductive biases
+   - Transformers (ViT) learn from data more flexibly
+   - Both show some reliance on context/background
+
+================================================================================
